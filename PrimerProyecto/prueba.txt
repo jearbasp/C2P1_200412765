@@ -1,0 +1,41 @@
+var r = j ? funcion1():'variable' + 'dos';
+
+test = arregloVar.pop();
+probando = arregloVar.length();
+prueba = arregloVar.push(1);
+
+function fun2(uno:number,dos:boolean,tres:types):Number{
+    for(var prop=1 in obj){
+        graficar_ts();   
+    }
+    let varfun2 = 'Probando' + 3 * 5 ** 2;
+    function fun1(primero:string):Void{
+        const unaConstante = true;
+        switch(Variable){
+            case 1: let x = 1;
+            x = x+1;
+            if(x>1){ graficar_ts(); } break;
+            case 10: console.log(Variable);
+            default: printFUncion('Imprimir'); continue;
+        }
+        return;
+    }
+    const dosconst = 5+4*expr>uno and 1<>resultado;
+    let llamadaAFuncion = fun1('1');
+    if(uno > 5 and 5-3*1<=j){
+        console.log('DentrodelIf');
+    }else { graficar_ts(); }
+    do{
+        while(false){
+            console.log('EnConsola');
+        }
+    }while(true);
+
+    for(var i = 0;i>1;i++){
+        console.log('a');
+    }
+    return fun2;
+}
+fun2 = not (resultado=5 and true) ;
+variableUno = 1;
+console.log('prueba');
